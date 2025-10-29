@@ -38,7 +38,7 @@ I'm a passionate **AWS Cloud Engineer** with experience in **Node.js, React.js, 
 
 ## Featured Project 💻
 
-### [The Relocation Calculation App](project_1_link)
+### [The Relocation Calculation App](https://github.com/Ecce0/AIRelocationApp/tree/dev)
 
 <img width="400" height="650" alt="Screenshot 2025-10-27 at 8 46 45 PM" src="https://github.com/user-attachments/assets/27e72b7e-d84e-4ac9-a194-8a35a6eb5e4c" />
 <img width="400" height="650" alt="Screenshot 2025-10-27 at 8 47 11 PM" src="https://github.com/user-attachments/assets/d17f1beb-b762-40ac-aa3d-7ff15c2272d9" />
