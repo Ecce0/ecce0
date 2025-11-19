@@ -16,7 +16,7 @@
 I'm an AWS Cloud Engineer transitioning into **Product Management**, bringing hands-on experience with Node.js, React.js, Terraform, and AWS services (Lambda, DynamoDB, API Gateway, VPCs, CloudWatch). My technical background helps me bridge the gap between engineering teams and business goals: I understand what's possible, what's practical, and how to build products that scale sustainably.
 I'm drawn to **product management** because I love the strategic side of technology: understanding user needs, translating them into features, and guiding products from concept to launch. I recently earned my CSPO certification and have been working with Agile methodologies, sprint planning, and backlog management for 5 years, gaining insight from a developer's perspective..
 
-- 🌱 Currently learning: **Terraform + Pinescript + Hitchiti**
+- 🌱 Currently learning: **Terraform + Agile Product Discovery + Hitchiti**
 - 🔭 Working on: **The Relocation Calculation App (solving a real problem I'm experiencing)**
 - 💡 Special Interest: **AI Ethics and Governance in product development; the art of applying Agile Methodologies to any plan or goal**
 - 📫 How to reach me: **ecollier871@outlook.com**
