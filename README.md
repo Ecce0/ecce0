@@ -1,13 +1,4 @@
- ### const openTechnicalProductOwnerRole = (priorSoftwareEngineerExperience) => return '☁️ E. Collier!' 
-
-<p align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/77f34f2c-d611-4d33-bad3-a2a1b173cd79" 
-    alt="avatar" 
-    width="300" 
-    height="300"
-  />
-</p>
+ ### ☁️ E. Collier: Cloud Engineer transitioning to Technical Product Owner
 
 ## About Me 🚀
 
