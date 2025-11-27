@@ -1,4 +1,4 @@
- # ☁️ E. Collier: Cloud Engineer transitioning to Technical Product Owner
+ # ☁️ E. Collier: Cloud Engineer transitioning to Technical Product Owner/Manager
 
 ## About Me 🚀
 
